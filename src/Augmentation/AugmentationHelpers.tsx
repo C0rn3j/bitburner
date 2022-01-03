@@ -1902,7 +1902,7 @@ function initAugmentations(): void {
     moneyCost: 2e9,
     info:
       "A 'Probability Computation Matrix' is installed in the frontal cortex. This implant " +
-      "uses advanced mathematical algorithims to rapidly identify and compute statistical " +
+      "uses advanced mathematical algorithms to rapidly identify and compute statistical " +
       "outcomes of nearly every situation.",
     charisma_mult: 1.0777,
     charisma_exp_mult: 1.0777,
